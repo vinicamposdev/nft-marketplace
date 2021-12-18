@@ -1,0 +1,14 @@
+#nodejs
+node_modules
+
+#Typescript
+dist
+
+#Jest
+coverage
+
+#Mongo Storage
+./data
+
+#Vscode
+.vscode
